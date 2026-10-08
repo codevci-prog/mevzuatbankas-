@@ -1,5 +1,6 @@
+
 {
-  "version": "0.45.0",
-  "download_url": "https://github.com/codevci-prog/mevzuatbankas-/releases/download/v0.45.0/EXE_ADINIZ.exe",
-  "notes": "İlk otomatik güncelleme sürümü."
+  "version": "0.62.0",
+  "download_url": "https://github.com/codevci-prog/mevzuatbankas-/releases/download/v0.62.0/MevzuatBankasi.exe",
+  "notes": "V0.62 - Eski mevzuat indirme ve belge arşivi geliştirildi."
 }
